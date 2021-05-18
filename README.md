@@ -4,17 +4,6 @@
 
 Hi I'm Salvador - Systems engineer, carrying out a gamification project for the degree.
 
-<!--
-## 🚀 Some of my projects
-- [git course](https://github.com/slvdrvlc/git-course)
--->
-
-## 📜 Latest blog posts
-
-<!-- BLOG-POST-LIST:START -->
-- [git course](https://slvdrvlc.wordpress.com)
-
-<!-- BLOG-POST-LIST:END -->
 
 ## 🖖 Get in touch
 
